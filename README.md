@@ -184,13 +184,13 @@ See the [Development Guide](docs/development.md) for prerequisites and details.
 |---|---:|---:|
 | GitHub stars | 473 | n/a |
 | GitHub forks | 84 | n/a |
-| Installer/server downloads | 1,634 | 1,634 |
-| Download delta | +17 | n/a |
+| Installer/server downloads | 1,653 | 1,653 |
+| Download delta | +4 | n/a |
 | npm downloads | 75 (last week) | 9,340 |
 | GitHub views, last 14-ish days | unavailable | n/a |
 | GitHub clones, last 14-ish days | unavailable | n/a |
 
-Generated 2026-10-07T10:13:32.160Z. These are public GitHub/npm adoption signals, not active-user or in-app telemetry numbers. All-time values are shown only where the source API provides lifetime coverage. [Full report](docs/public-adoption-stats.md).
+Generated 2026-10-08T10:32:36.154Z. These are public GitHub/npm adoption signals, not active-user or in-app telemetry numbers. All-time values are shown only where the source API provides lifetime coverage. [Full report](docs/public-adoption-stats.md).
 <!-- COWORK_PUBLIC_ADOPTION_STATS_END -->
 
 ## How It Works
